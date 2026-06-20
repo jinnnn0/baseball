@@ -41,3 +41,6 @@ pytest
 ## 6. 작성자 정보
 이름 : 정여진
 학과 : 컴퓨터공학과
+
+# GitHub URL
+https://github.com/jinnnn0/baseball.git
